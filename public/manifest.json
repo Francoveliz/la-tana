@@ -1,0 +1,27 @@
+{
+  "name": "Heladería Dulce Buenos Aires",
+  "short_name": "La Tana",
+  "description": "Los mejores helados artesanales de Buenos Aires con entrega a domicilio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6b35",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["food", "shopping"],
+  "lang": "es",
+  "dir": "ltr"
+}
